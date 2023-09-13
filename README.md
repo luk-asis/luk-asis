@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luk-asis (javier_carmona)
 - 👀 I’m interested in processes, operations. Automation and mechanical things
 - 🌱 I’m currently learning Python and Zapier
-- 💞️ I’m looking to collaborate on Automation code that help us (XFormations) move away from manual processes
+- 💞️ I’m looking to collaborate on Automation code that help move away from manual processes
 - 📫 How to reach me? call me, maybe? 🤪 Text, Chat, visit... I'll let you decide
 
 <!---
